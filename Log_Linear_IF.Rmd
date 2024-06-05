@@ -1,5 +1,5 @@
 ---
-title: "Log-Linear Migration Estimates with more covariates."
+title: "Log-Linear Migration Estimates with additional interaction parameters."
 author: "Aysha"
 date: "2024-05-31"
 output: html_document
